@@ -1,3 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(110, 130, 123);
+}
 h1 {
     color: blueviolet;
+}
+body{
+    background-color: rgb(242, 242, 242);
+}
+footer{
+    min-height: 100dvh;
 }
